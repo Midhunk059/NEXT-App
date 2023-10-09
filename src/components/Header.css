@@ -1,0 +1,11 @@
+header {
+    background-color: #333; /* Background color of the header */
+    color: #fff; /* Text color */
+    padding: 10px 0; /* Vertical and horizontal padding */
+    text-align: center; /* Center-align text */
+}
+
+/* Optional: Add a border to the bottom of the header for separation */
+header {
+    border-bottom: 2px solid #fff;
+      }
